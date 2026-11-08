@@ -1,0 +1,441 @@
+Query,Rank,Chunk_ID,Document,Similarity_Score
+What is Artificial Intelligence?,1,chunk_0,"--- Page 1 ---
+Artificial Intelligence – Learning Guide
+Page 2
+1. Introduction to Artificial Intelligence
+Artificial Intelligence (AI) is a branch of computer science concerned with building machines and software
+that can perform tasks that normally require human intelligence. These tasks include recognizing
+patterns, understanding language, solving problems, making predictions, planning actions, and learning",0.8046985864639282
+What is Artificial Intelligence?,2,chunk_1,"from experience. AI systems use data, algorithms, and computing power to produce outputs that help
+people make decisions or automate work.
+The term artificial intelligence became widely used in academic research during the 1950s. Early
+researchers explored whether computers could reason, solve puzzles, and use language. Modern AI has
+expanded because digital data has become abundant, processors have become faster, and improved",0.6700916290283203
+What is Artificial Intelligence?,3,chunk_12,"claims about AGI require careful definitions and evidence.
+Artificial Superintelligence is a hypothetical system whose intellectual abilities would exceed those of
+humans across many important domains. It is a subject of debate in AI research, ethics, and policy rather
+than a description of ordinary products.
+Another classification considers how systems operate. Reactive systems respond to current inputs",0.6654033064842224
+What is Artificial Intelligence?,4,chunk_16,"establishment of artificial intelligence as a named field.
+Early AI programs solved puzzles, played simple games, and manipulated symbols. Researchers
+believed that reasoning could be represented through formal rules. However, limited computing power,
+small datasets, and the difficulty of real-world language and perception restricted progress. Periods of
+reduced funding and expectations became known as AI winters.",0.6419177651405334
+What is Artificial Intelligence?,5,chunk_15,"--- Page 4 ---
+Artificial Intelligence – Learning Guide
+Page 5
+4. History and Development of AI
+The development of AI has taken place over many decades. In the 1940s and 1950s, researchers
+developed mathematical models of computation and began asking whether machines could demonstrate
+intelligent behavior. The 1956 Dartmouth research workshop is commonly associated with the
+establishment of artificial intelligence as a named field.",0.6207826733589172
+What are the goals of AI?,1,chunk_5,"--- Page 2 ---
+Artificial Intelligence – Learning Guide
+Page 3
+2. Goals and Characteristics of AI
+One important goal of AI is to help computers perform tasks that are difficult to describe using fixed
+instructions. Traditional software follows rules written by a programmer. Machine-learning systems can
+instead learn statistical patterns from examples. This makes them useful when the number of possible
+situations is large or when the rules are hard to write explicitly.",0.7507048845291138
+What are the goals of AI?,2,chunk_7,"Automation is another major goal. An AI system can process repetitive information quickly and
+consistently, allowing people to focus on tasks that require judgment, empathy, creativity, or
+responsibility. AI can also support personalization by adapting recommendations, learning materials, or
+interfaces to a person's needs.
+Important characteristics of a useful AI system include accuracy, reliability, efficiency, adaptability,",0.6487462520599365
+What are the goals of AI?,3,chunk_0,"--- Page 1 ---
+Artificial Intelligence – Learning Guide
+Page 2
+1. Introduction to Artificial Intelligence
+Artificial Intelligence (AI) is a branch of computer science concerned with building machines and software
+that can perform tasks that normally require human intelligence. These tasks include recognizing
+patterns, understanding language, solving problems, making predictions, planning actions, and learning",0.6388218402862549
+What are the goals of AI?,4,chunk_6,"situations is large or when the rules are hard to write explicitly.
+AI systems commonly demonstrate abilities such as perception, reasoning, learning, language
+processing, planning, and decision-making. Perception includes interpreting images, sound, and sensor
+readings. Reasoning involves drawing conclusions from available information. Learning means improving
+performance by identifying patterns in data. Planning selects a sequence of actions to reach a goal.",0.6262701749801636
+What are the goals of AI?,5,chunk_80,"--- Page 19 ---
+Artificial Intelligence – Learning Guide
+Page 20
+19. Applications, Benefits, and Challenges of AI
+AI is used across many sectors. In healthcare, it can assist with image analysis, administrative work, and
+research, while clinical decisions remain subject to professional oversight. In education, AI can support
+tutoring, language practice, feedback, and accessible learning materials. In agriculture, predictive tools",0.5715410709381104
+Explain machine learning.,1,chunk_20,"--- Page 5 ---
+Artificial Intelligence – Learning Guide
+Page 6
+5. Machine Learning
+Machine learning (ML) is a major area of AI in which computer systems learn patterns from data and use
+those patterns to make predictions or decisions. Rather than receiving every rule directly from a
+programmer, a model is trained using examples. The model adjusts internal parameters to reduce errors
+on a defined learning task.",0.6807036995887756
+Explain machine learning.,2,chunk_5,"--- Page 2 ---
+Artificial Intelligence – Learning Guide
+Page 3
+2. Goals and Characteristics of AI
+One important goal of AI is to help computers perform tasks that are difficult to describe using fixed
+instructions. Traditional software follows rules written by a programmer. Machine-learning systems can
+instead learn statistical patterns from examples. This makes them useful when the number of possible
+situations is large or when the rules are hard to write explicitly.",0.6075328588485718
+Explain machine learning.,3,chunk_23,"and receives rewards or penalties. Over time it learns a policy that aims to maximize long-term reward. It
+is used in research on robotics, game-playing, and resource allocation.
+A machine-learning workflow includes defining the problem, collecting data, cleaning and preparing it,
+selecting a model, training, validating, testing, and monitoring. Data leakage, biased samples, and
+overfitting can make a model appear successful during development but fail in real use. A separate test",0.5795627236366272
+Explain machine learning.,4,chunk_0,"--- Page 1 ---
+Artificial Intelligence – Learning Guide
+Page 2
+1. Introduction to Artificial Intelligence
+Artificial Intelligence (AI) is a branch of computer science concerned with building machines and software
+that can perform tasks that normally require human intelligence. These tasks include recognizing
+patterns, understanding language, solving problems, making predictions, planning actions, and learning",0.5364904403686523
+Explain machine learning.,5,chunk_81,"and image analysis can support crop monitoring and resource planning.
+Businesses use AI for demand forecasting, customer support, fraud detection, document processing, and
+quality inspection. Transport systems use AI-related methods for route planning, traffic prediction, and
+driver assistance. Scientific researchers use machine learning to analyze large datasets and identify
+patterns that may be difficult to detect manually.",0.5176806449890137
+What is deep learning?,1,chunk_25,"--- Page 6 ---
+Artificial Intelligence – Learning Guide
+Page 7
+6. Deep Learning and Neural Networks
+Deep learning is a branch of machine learning that uses neural networks with many layers. These
+networks are inspired loosely by the connected structure of biological neurons, although artificial neurons
+are mathematical functions rather than realistic brain cells. Each layer transforms its input and passes the
+result to the next layer.",0.7839798331260681
+What is deep learning?,2,chunk_28,"Deep learning has achieved strong results in computer vision, speech recognition, natural language
+processing, and scientific applications. However, it often requires substantial data and computing
+resources. Large models can be difficult to interpret and may reproduce patterns or biases present in their
+training data.
+A neural network is not automatically appropriate for every problem. For a small structured dataset, a",0.6773740649223328
+What is deep learning?,3,chunk_27,"Backpropagation calculates how changes in weights affect the loss.
+Deep networks can learn useful representations from raw or lightly processed data. In image recognition,
+early layers may respond to edges and textures, while later layers may represent object parts and
+complete objects. In language tasks, networks learn relationships among words and pieces of words from
+large collections of text.
+Deep learning has achieved strong results in computer vision, speech recognition, natural language",0.6389079689979553
+What is deep learning?,4,chunk_20,"--- Page 5 ---
+Artificial Intelligence – Learning Guide
+Page 6
+5. Machine Learning
+Machine learning (ML) is a major area of AI in which computer systems learn patterns from data and use
+those patterns to make predictions or decisions. Rather than receiving every rule directly from a
+programmer, a model is trained using examples. The model adjusts internal parameters to reduce errors
+on a defined learning task.",0.5701331496238708
+What is deep learning?,5,chunk_26,"result to the next layer.
+An artificial neuron receives numerical inputs, multiplies them by weights, adds a bias, and applies an
+activation function. During training, the network compares its prediction with the expected answer. A loss
+function measures the error, and an optimization method updates the weights to reduce that error.
+Backpropagation calculates how changes in weights affect the loss.",0.5244619250297546
+What is Natural Language Processing?,1,chunk_30,"--- Page 7 ---
+Artificial Intelligence – Learning Guide
+Page 8
+7. Natural Language Processing
+Natural Language Processing (NLP) is the area of AI that enables computers to work with human
+language. Language is complex because words can have multiple meanings, grammar varies, and
+meaning depends on context, culture, and situation. NLP combines computational linguistics, machine
+learning, and language modelling to process text and speech.",0.7528693675994873
+What is Natural Language Processing?,2,chunk_31,"learning, and language modelling to process text and speech.
+Common NLP tasks include tokenization, part-of-speech tagging, named-entity recognition, sentiment
+analysis, translation, summarization, question answering, and text classification. Tokenization divides text
+into smaller units such as words, subwords, or punctuation. Named-entity recognition identifies items
+such as people, organizations, dates, and locations.",0.6394197344779968
+What is Natural Language Processing?,3,chunk_32,"such as people, organizations, dates, and locations.
+Sentiment analysis estimates whether text expresses a positive, negative, or neutral attitude. Machine
+translation converts text from one language to another. Text summarization produces a shorter version
+that preserves important information. Search systems use language processing to match a query with
+relevant documents.
+NLP systems may use rule-based methods, statistical models, neural networks, or combinations of these",0.5663428902626038
+What is Natural Language Processing?,4,chunk_33,"approaches. Modern language models learn patterns from large text collections and can perform multiple
+tasks through instructions or examples.
+Evaluation must consider more than grammatical fluency. A response may sound natural but contain
+incorrect facts. NLP applications should be tested for accuracy, fairness across languages and dialects,
+privacy, and robustness to misspellings or unusual phrasing.",0.5533872842788696
+What is Natural Language Processing?,5,chunk_79,"extraction, chunking, retrieval, or generation.",0.5213820934295654
+Explain computer vision.,1,chunk_34,"--- Page 8 ---
+Artificial Intelligence – Learning Guide
+Page 9
+8. Computer Vision
+Computer vision is the field of AI that enables computers to interpret visual information from images and
+videos. A computer vision system may identify objects, locate people, classify scenes, read text, estimate
+movement, or inspect products for defects. Cameras and other sensors provide the visual input.
+Image classification assigns a label to an entire image. Object detection identifies objects and estimates",0.743657112121582
+Explain computer vision.,2,chunk_36,"patterns such as edges, shapes, and textures. Vision transformers and other architectures have also
+become important. Training usually requires labelled images or other learning signals, along with careful
+evaluation on data that represents real deployment conditions.
+Applications include medical image support, quality inspection in factories, crop monitoring, traffic
+analysis, accessibility tools, and document scanning. In agriculture, vision models can help identify visible",0.5566058158874512
+Explain computer vision.,3,chunk_35,"their locations, often using bounding boxes. Image segmentation assigns labels to individual pixels or
+regions. Facial analysis may detect a face or estimate visible landmarks; the use of such systems
+requires particular attention to consent, privacy, and fairness.
+Deep convolutional neural networks were widely used for image tasks because they can learn spatial
+patterns such as edges, shapes, and textures. Vision transformers and other architectures have also",0.5509600043296814
+Explain computer vision.,4,chunk_6,"situations is large or when the rules are hard to write explicitly.
+AI systems commonly demonstrate abilities such as perception, reasoning, learning, language
+processing, planning, and decision-making. Perception includes interpreting images, sound, and sensor
+readings. Reasoning involves drawing conclusions from available information. Learning means improving
+performance by identifying patterns in data. Planning selects a sequence of actions to reach a goal.",0.4535331130027771
+Explain computer vision.,5,chunk_81,"and image analysis can support crop monitoring and resource planning.
+Businesses use AI for demand forecasting, customer support, fraud detection, document processing, and
+quality inspection. Transport systems use AI-related methods for route planning, traffic prediction, and
+driver assistance. Scientific researchers use machine learning to analyze large datasets and identify
+patterns that may be difficult to detect manually.",0.4270552396774292
+What is Generative AI?,1,chunk_38,"--- Page 9 ---
+Artificial Intelligence – Learning Guide
+Page 10
+9. Generative Artificial Intelligence
+Generative AI refers to systems that create new content based on patterns learned from training data.
+The output may be text, images, audio, video, computer code, or structured information. Unlike a system
+that only classifies an input, a generative model produces a new sequence or representation.",0.799524188041687
+What is Generative AI?,2,chunk_40,"objectives and architectures.
+Generative AI can support brainstorming, drafting, tutoring, translation, coding assistance, and creative
+exploration. It can help users produce a first draft quickly, but the result should be reviewed. Models can
+generate inaccurate statements, fabricated references, outdated information, or code containing errors.
+This behavior is sometimes called hallucination.
+The quality of an output depends on the prompt, model, context, and task. Clear instructions, relevant",0.7305389642715454
+What is Generative AI?,3,chunk_18,"every rule, developers trained models using examples. Larger datasets, improved hardware, and deep
+learning led to major advances in image recognition, speech processing, and language technology during
+the 2010s.
+Transformer architectures, introduced in 2017, helped accelerate progress in language models.
+Generative AI systems can now produce text, images, audio, and code. The history of AI shows that
+progress depends not only on algorithms but also on data, computing resources, evaluation, and",0.5457744002342224
+What is Generative AI?,4,chunk_0,"--- Page 1 ---
+Artificial Intelligence – Learning Guide
+Page 2
+1. Introduction to Artificial Intelligence
+Artificial Intelligence (AI) is a branch of computer science concerned with building machines and software
+that can perform tasks that normally require human intelligence. These tasks include recognizing
+patterns, understanding language, solving problems, making predictions, planning actions, and learning",0.5446059703826904
+What is Generative AI?,5,chunk_12,"claims about AGI require careful definitions and evidence.
+Artificial Superintelligence is a hypothetical system whose intellectual abilities would exceed those of
+humans across many important domains. It is a subject of debate in AI research, ethics, and policy rather
+than a description of ordinary products.
+Another classification considers how systems operate. Reactive systems respond to current inputs",0.538384735584259
+What is a Transformer architecture?,1,chunk_42,"--- Page 10 ---
+Artificial Intelligence – Learning Guide
+Page 11
+10. Transformers and Attention
+The Transformer is a neural network architecture that has become central to modern language modelling.
+It was introduced in the 2017 research paper titled “Attention Is All You Need.” Transformers use attention
+mechanisms to relate different parts of an input sequence and can process many tokens in parallel during
+training.",0.62214195728302
+What is a Transformer architecture?,2,chunk_18,"every rule, developers trained models using examples. Larger datasets, improved hardware, and deep
+learning led to major advances in image recognition, speech processing, and language technology during
+the 2010s.
+Transformer architectures, introduced in 2017, helped accelerate progress in language models.
+Generative AI systems can now produce text, images, audio, and code. The history of AI shows that
+progress depends not only on algorithms but also on data, computing resources, evaluation, and",0.5941054821014404
+What is a Transformer architecture?,3,chunk_44,"relationships, such as nearby grammatical connections or longer-range dependencies. Positional
+information is added because attention alone does not inherently represent the order of tokens.
+A Transformer commonly contains attention layers, feed-forward networks, residual connections, and
+normalization. Encoder-only models are often used for understanding tasks, decoder-only models for text
+generation, and encoder-decoder models for tasks such as translation.",0.42592835426330566
+What is a Transformer architecture?,4,chunk_45,"generation, and encoder-decoder models for tasks such as translation.
+Transformers can model long-range relationships effectively, but their computational and memory
+requirements can grow substantially with sequence length. Researchers continue to develop more
+efficient attention methods and architectures. Understanding attention helps explain why modern
+language models can use context, although attention weights should not be interpreted as a complete
+explanation of a model's reasoning.",0.38083839416503906
+What is a Transformer architecture?,5,chunk_35,"their locations, often using bounding boxes. Image segmentation assigns labels to individual pixels or
+regions. Facial analysis may detect a face or estimate visible landmarks; the use of such systems
+requires particular attention to consent, privacy, and fairness.
+Deep convolutional neural networks were widely used for image tasks because they can learn spatial
+patterns such as edges, shapes, and textures. Vision transformers and other architectures have also",0.32484328746795654
+What are Large Language Models?,1,chunk_46,"--- Page 11 ---
+Artificial Intelligence – Learning Guide
+Page 12
+11. Large Language Models
+A Large Language Model (LLM) is a model trained on large amounts of text to learn statistical patterns in
+language. Many LLMs use Transformer architectures. Text is divided into tokens, and the model learns to
+predict or otherwise represent token sequences. Training adjusts a large number of parameters using
+examples.",0.7622416019439697
+What are Large Language Models?,2,chunk_45,"generation, and encoder-decoder models for tasks such as translation.
+Transformers can model long-range relationships effectively, but their computational and memory
+requirements can grow substantially with sequence length. Researchers continue to develop more
+efficient attention methods and architectures. Understanding attention helps explain why modern
+language models can use context, although attention weights should not be interpreted as a complete
+explanation of a model's reasoning.",0.5740077495574951
+What are Large Language Models?,3,chunk_39,"that only classifies an input, a generative model produces a new sequence or representation.
+Large language models generate text by estimating likely next tokens based on the preceding context.
+Image-generation models may learn to transform noise into images that match a text description. Audio
+models can generate speech, music, or sound effects. Different model families use different training
+objectives and architectures.",0.5443031787872314
+What are Large Language Models?,4,chunk_71,"--- Page 17 ---
+Artificial Intelligence – Learning Guide
+Page 18
+17. Ollama and Local Language Models
+Ollama is a tool for running supported language models locally on a computer. It provides a way to
+download models, start a local service, and send prompts to a model without relying on a hosted
+language-model API for each request. Local inference can be useful for learning, prototyping, and
+applications where data should remain within a controlled environment.",0.5248960256576538
+What are Large Language Models?,5,chunk_33,"approaches. Modern language models learn patterns from large text collections and can perform multiple
+tasks through instructions or examples.
+Evaluation must consider more than grammatical fluency. A response may sound natural but contain
+incorrect facts. NLP applications should be tested for accuracy, fairness across languages and dialects,
+privacy, and robustness to misspellings or unusual phrasing.",0.5149129629135132
+Explain Retrieval-Augmented Generation.,1,chunk_50,"--- Page 12 ---
+Artificial Intelligence – Learning Guide
+Page 13
+12. Retrieval-Augmented Generation
+Retrieval-Augmented Generation (RAG) is a system design that combines information retrieval with
+generative AI. Instead of asking a language model to answer only from its learned parameters, a RAG
+system first searches an external collection for relevant information. It then provides the retrieved material
+to the model as context for generating an answer.",0.6902086734771729
+Explain Retrieval-Augmented Generation.,2,chunk_79,"extraction, chunking, retrieval, or generation.",0.5871095657348633
+Explain Retrieval-Augmented Generation.,3,chunk_89,"comparing semantic and keyword search, recording similarity scores, and checking generated answers
+against the original PDF, students can understand both the strengths and limitations of modern
+information-retrieval systems.",0.5360134840011597
+Explain Retrieval-Augmented Generation.,4,chunk_64,"effective when users know the exact terminology.
+Semantic search attempts to match meaning. It commonly uses embeddings to represent queries and
+documents as vectors, then ranks documents by vector similarity. It may retrieve a relevant passage even
+when the query uses synonyms or different wording from the document.
+For example, a document might say “neural networks improve through training,” while a user asks “How",0.502852201461792
+Explain Retrieval-Augmented Generation.,5,chunk_88,"generative AI, Transformers, LLMs, RAG, embeddings, vector databases, semantic search, and local
+inference. These concepts work together in a PDF question-answering application: the document is
+extracted, divided into chunks, embedded, indexed, searched, and passed to a language model as
+evidence.
+A successful AI project combines sound technical design with careful testing and responsible use. By
+comparing semantic and keyword search, recording similarity scores, and checking generated answers",0.47968006134033203
+What are text embeddings?,1,chunk_59,"--- Page 14 ---
+Artificial Intelligence – Learning Guide
+Page 15
+14. Embeddings and Vector Databases
+An embedding is a numerical representation of data, such as a sentence or paragraph. Embedding
+models map text into vectors so that pieces of text with related meanings can be placed near each other
+in a mathematical space. The vector contains many numerical dimensions, and each dimension
+contributes to the representation learned by the model.",0.7430514693260193
+What are text embeddings?,2,chunk_51,"to the model as context for generating an answer.
+A typical RAG pipeline has several stages. Documents are loaded from sources such as PDFs, web
+pages, or text files. The text is cleaned and divided into chunks. An embedding model converts each
+chunk into a numerical vector. These vectors and their associated text are stored in a vector database.
+When a user asks a question, the system embeds the query and searches for nearby document vectors.",0.5388240814208984
+What are text embeddings?,3,chunk_60,"contributes to the representation learned by the model.
+Semantic search uses embeddings to find meaning-related content rather than relying only on exact word
+matches. For example, a query asking “How can machines learn from examples?” may retrieve a
+passage about machine learning even if the exact phrase does not appear.
+Similarity can be measured in different ways. Cosine similarity compares the direction of two vectors. Dot",0.4397265911102295
+What are text embeddings?,4,chunk_64,"effective when users know the exact terminology.
+Semantic search attempts to match meaning. It commonly uses embeddings to represent queries and
+documents as vectors, then ranks documents by vector similarity. It may retrieve a relevant passage even
+when the query uses synonyms or different wording from the document.
+For example, a document might say “neural networks improve through training,” while a user asks “How",0.4393599033355713
+What are text embeddings?,5,chunk_31,"learning, and language modelling to process text and speech.
+Common NLP tasks include tokenization, part-of-speech tagging, named-entity recognition, sentiment
+analysis, translation, summarization, question answering, and text classification. Tokenization divides text
+into smaller units such as words, subwords, or punctuation. Named-entity recognition identifies items
+such as people, organizations, dates, and locations.",0.42467254400253296
+What is ChromaDB?,1,chunk_67,"--- Page 16 ---
+Artificial Intelligence – Learning Guide
+Page 17
+16. ChromaDB in a RAG Application
+ChromaDB is an open-source vector database that can store embeddings and associated records for
+similarity search. In a RAG project, each record typically includes a unique identifier, the original text
+chunk, an embedding vector, and metadata. Metadata may include a filename, page number, or section
+heading.",0.64164137840271
+What is ChromaDB?,2,chunk_68,"heading.
+A collection groups related records. For example, a collection named “ai_pdf_collection” can contain
+chunks extracted from an Artificial Intelligence PDF. Keeping collections organized helps separate
+different document sets and prevents accidental mixing of unrelated sources.
+A typical workflow creates or opens a persistent ChromaDB client, creates a collection, and adds
+documents with identifiers and metadata. The embedding model converts the text into vectors. At query",0.42888355255126953
+What is ChromaDB?,3,chunk_61,"product measures their inner product, and Euclidean distance measures straight-line distance. The
+correct interpretation depends on the embedding model and the vector database's configuration. A
+similarity score is a ranking signal, not automatically a probability that an answer is correct.
+A vector database stores embeddings and supports efficient similarity search. ChromaDB is one option. A
+collection can store each vector alongside its text and metadata. When a query arrives, the database",0.2277008295059204
+What is ChromaDB?,4,chunk_51,"to the model as context for generating an answer.
+A typical RAG pipeline has several stages. Documents are loaded from sources such as PDFs, web
+pages, or text files. The text is cleaned and divided into chunks. An embedding model converts each
+chunk into a numerical vector. These vectors and their associated text are stored in a vector database.
+When a user asks a question, the system embeds the query and searches for nearby document vectors.",0.2204049825668335
+What is ChromaDB?,5,chunk_52,"When a user asks a question, the system embeds the query and searches for nearby document vectors.
+It retrieves the most relevant chunks and places them into a prompt with instructions. The language
+model generates an answer using the supplied context. The system can also show the retrieved
+passages so users can verify the response.
+RAG is useful for company policies, manuals, course notes, technical documentation, and other",0.21877992153167725
+Explain semantic search.,1,chunk_60,"contributes to the representation learned by the model.
+Semantic search uses embeddings to find meaning-related content rather than relying only on exact word
+matches. For example, a query asking “How can machines learn from examples?” may retrieve a
+passage about machine learning even if the exact phrase does not appear.
+Similarity can be measured in different ways. Cosine similarity compares the direction of two vectors. Dot",0.7368555068969727
+Explain semantic search.,2,chunk_64,"effective when users know the exact terminology.
+Semantic search attempts to match meaning. It commonly uses embeddings to represent queries and
+documents as vectors, then ranks documents by vector similarity. It may retrieve a relevant passage even
+when the query uses synonyms or different wording from the document.
+For example, a document might say “neural networks improve through training,” while a user asks “How",0.6915457248687744
+Explain semantic search.,3,chunk_62,"finds nearby vectors and returns the corresponding records.
+The quality of semantic search depends on the embedding model, chunking strategy, query wording, and
+source content. Developers should inspect retrieved passages and evaluate results with realistic
+questions instead of assuming that the highest score always represents a correct answer.",0.651685893535614
+Explain semantic search.,4,chunk_65,"do artificial neurons get better?” Keyword search may find fewer direct matches. Semantic search may
+recognize that the question is conceptually related to model training.
+Neither method is always superior. Keyword search can perform well for product codes, names, exact
+phrases, legal references, and technical identifiers. Semantic search can help with natural-language
+questions and paraphrases. Semantic methods may miss exact rare terms, while keyword methods may",0.6439870595932007
+Explain semantic search.,5,chunk_66,"questions and paraphrases. Semantic methods may miss exact rare terms, while keyword methods may
+return passages that share words but not meaning.
+Hybrid search combines lexical and semantic signals. A system may retrieve candidates using both
+methods and combine their rankings. Evaluation should compare methods on the same queries,
+document collection, and Top-5 limit. Useful measures include relevance judgments, precision at five,
+recall, and inspection of similarity or ranking scores.",0.6436442136764526
+What is keyword-based search?,1,chunk_63,"--- Page 15 ---
+Artificial Intelligence – Learning Guide
+Page 16
+15. Semantic Search and Keyword Search
+Keyword-based search finds documents by matching words or terms in a query. A simple approach
+counts matching terms. More advanced traditional methods include TF-IDF and BM25, which consider
+term frequency and how common a word is across a document collection. These methods can be
+effective when users know the exact terminology.",0.6686724424362183
+What is keyword-based search?,2,chunk_66,"questions and paraphrases. Semantic methods may miss exact rare terms, while keyword methods may
+return passages that share words but not meaning.
+Hybrid search combines lexical and semantic signals. A system may retrieve candidates using both
+methods and combine their rankings. Evaluation should compare methods on the same queries,
+document collection, and Top-5 limit. Useful measures include relevance judgments, precision at five,
+recall, and inspection of similarity or ranking scores.",0.6436877250671387
+What is keyword-based search?,3,chunk_65,"do artificial neurons get better?” Keyword search may find fewer direct matches. Semantic search may
+recognize that the question is conceptually related to model training.
+Neither method is always superior. Keyword search can perform well for product codes, names, exact
+phrases, legal references, and technical identifiers. Semantic search can help with natural-language
+questions and paraphrases. Semantic methods may miss exact rare terms, while keyword methods may",0.6311966776847839
+What is keyword-based search?,4,chunk_64,"effective when users know the exact terminology.
+Semantic search attempts to match meaning. It commonly uses embeddings to represent queries and
+documents as vectors, then ranks documents by vector similarity. It may retrieve a relevant passage even
+when the query uses synonyms or different wording from the document.
+For example, a document might say “neural networks improve through training,” while a user asks “How",0.5885052680969238
+What is keyword-based search?,5,chunk_60,"contributes to the representation learned by the model.
+Semantic search uses embeddings to find meaning-related content rather than relying only on exact word
+matches. For example, a query asking “How can machines learn from examples?” may retrieve a
+passage about machine learning even if the exact phrase does not appear.
+Similarity can be measured in different ways. Cosine similarity compares the direction of two vectors. Dot",0.5476521253585815
+What is Ollama?,1,chunk_71,"--- Page 17 ---
+Artificial Intelligence – Learning Guide
+Page 18
+17. Ollama and Local Language Models
+Ollama is a tool for running supported language models locally on a computer. It provides a way to
+download models, start a local service, and send prompts to a model without relying on a hosted
+language-model API for each request. Local inference can be useful for learning, prototyping, and
+applications where data should remain within a controlled environment.",0.5663024187088013
+What is Ollama?,2,chunk_73,"on quantization, CPU or GPU support, and other runtime settings.
+In a RAG application, Ollama receives a prompt containing the user's question and the retrieved
+document chunks. The prompt should instruct the model to answer only from the supplied context. If the
+context does not contain the answer, the model should say that the information is unavailable in the
+document.
+Running a model locally does not remove every security or privacy risk. Files, logs, plugins, and network",0.4274270534515381
+What is Ollama?,3,chunk_52,"When a user asks a question, the system embeds the query and searches for nearby document vectors.
+It retrieves the most relevant chunks and places them into a prompt with instructions. The language
+model generates an answer using the supplied context. The system can also show the retrieved
+passages so users can verify the response.
+RAG is useful for company policies, manuals, course notes, technical documentation, and other",0.11078625917434692
+What is Ollama?,4,chunk_50,"--- Page 12 ---
+Artificial Intelligence – Learning Guide
+Page 13
+12. Retrieval-Augmented Generation
+Retrieval-Augmented Generation (RAG) is a system design that combines information retrieval with
+generative AI. Instead of asking a language model to answer only from its learned parameters, a RAG
+system first searches an external collection for relevant information. It then provides the retrieved material
+to the model as context for generating an answer.",0.109519362449646
+What is Ollama?,5,chunk_68,"heading.
+A collection groups related records. For example, a collection named “ai_pdf_collection” can contain
+chunks extracted from an Artificial Intelligence PDF. Keeping collections organized helps separate
+different document sets and prevents accidental mixing of unrelated sources.
+A typical workflow creates or opens a persistent ChromaDB client, creates a collection, and adds
+documents with identifiers and metadata. The embedding model converts the text into vectors. At query",0.10486435890197754

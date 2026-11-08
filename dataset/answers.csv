@@ -1,0 +1,21 @@
+Question,Answer
+What is Artificial Intelligence?,The answer is: Artificial Intelligence (AI) is a branch of computer science concerned with building machines and software that can perform tasks that normally require human intelligence.
+What are the goals of AI?,"The goals of AI include:
+
+1. Helping computers perform tasks that are difficult to describe using fixed instructions.
+2. Automation, allowing computers to process repetitive information quickly and consistently, and support personalization by adapting recommendations, learning materials, or interfaces to a person's needs.
+
+Note: These goals are mentioned on Page 2 of the PDF."
+Explain machine learning.,"Machine learning is a major area of AI in which computer systems learn patterns from data and use those patterns to make predictions or decisions. A model is trained using examples, and it adjusts internal parameters to reduce errors on a defined learning task."
+What is deep learning?,"According to the PDF context, deep learning is described on Page 6 as a ""branch of machine learning that uses neural networks with many layers."" It is further explained that these networks are inspired by the connected structure of biological neurons, but are mathematical functions rather than realistic brain cells."
+What is Natural Language Processing?,"Natural Language Processing (NLP) is the area of AI that enables computers to work with human language, combining computational linguistics, machine learning, and language modelling to process text and speech."
+Explain computer vision.,"Computer vision is the field of AI that enables computers to interpret visual information from images and videos, allowing them to identify objects, locate people, classify scenes, read text, estimate movement, or inspect products for defects."
+What is Generative AI?,Generative AI refers to systems that create new content based on patterns learned from training data.
+What is a Transformer architecture?,A Transformer architecture is a type of neural network that has become central to modern language modelling. It was introduced in the 2017 research paper titled “Attention Is All You Need.” Transformers use attention mechanisms to relate different parts of an input sequence and can process many tokens in parallel during training.
+What are Large Language Models?,Large Language Models (LLMs) are models trained on large amounts of text to learn statistical patterns in language.
+Explain Retrieval-Augmented Generation.,Retrieval-Augmented Generation (RAG) is a system design that combines information retrieval with generative AI. It involves searching an external collection for relevant information and providing the retrieved material as context for generating an answer.
+What are text embeddings?,"Text embeddings are numerical representations of data, such as a sentence or paragraph, that map text into vectors, allowing pieces of text with related meanings to be placed near each other in a mathematical space."
+What is ChromaDB?,ChromaDB is an open-source vector database that can store embeddings and associated records for similarity search.
+Explain semantic search.,"Semantic search uses embeddings to represent queries and documents as vectors, then ranks documents by vector similarity. It attempts to match meaning and can retrieve relevant passages even when the query uses synonyms or different wording from the document."
+What is keyword-based search?,"Keyword-based search finds documents by matching words or terms in a query, and it can be effective when users know the exact terminology."
+What is Ollama?,"Ollama is a tool for running supported language models locally on a computer, allowing for local inference and providing a way to download models, start a local service, and send prompts to a model without relying on a hosted language-model API for each request."

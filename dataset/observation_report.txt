@@ -1,0 +1,42 @@
+
+WEEK 13: PDF QUESTION ANSWERING SYSTEM
+======================================
+
+1. AIM
+To develop a PDF Question Answering System using
+LangChain, ChromaDB, Sentence Transformers and Ollama.
+
+2. IMPLEMENTATION
+- Extracted text from the PDF using PyPDF.
+- Divided the text into smaller chunks.
+- Generated text embeddings using Sentence Transformers.
+- Stored the embeddings in ChromaDB.
+- Performed semantic search and keyword search.
+- Generated answers using Ollama (Llama 3.2).
+
+3. SEARCH COMPARISON
+
+Semantic Search Average Similarity:
+0.1156
+
+Keyword Search Average Similarity:
+0.1592
+
+4. OBSERVATIONS
+Semantic search retrieves documents based on meaning
+and context. It can identify relevant information even
+when different words are used.
+
+Keyword search retrieves documents based on matching
+words using TF-IDF. It is useful when exact keywords
+are present in the document.
+
+Both methods retrieve the top 5 matching chunks
+for each query.
+
+5. CONCLUSION
+The PDF Question Answering System successfully
+extracts information, retrieves relevant content
+and generates answers using an LLM.
+Combining semantic and keyword search can improve
+information retrieval.

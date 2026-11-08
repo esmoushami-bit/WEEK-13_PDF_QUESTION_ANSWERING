@@ -1,0 +1,12 @@
+
+pandas
+chromadb
+pypdf
+sentence-transformers
+langchain
+langchain-ollama
+langchain-chroma
+langchain-community
+langchain-text-splitters
+scikit-learn
+ollama
